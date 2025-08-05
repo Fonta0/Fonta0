@@ -2,7 +2,7 @@
 
 💻 Backend Developer | Python | Django | SQL  
 📚 Passionate about building scalable APIs  
-📬 Reach me at: [seuemail@email.com](mailto:seuemail@email.com)  
+📬 Reach me at: [seuemail@email.com](mailto:fontaocontato@gmail.com)  
 
 ## 🛠️ Tools and Technologies  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
