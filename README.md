@@ -1,6 +1,6 @@
 # Hi there 👋, I am João  
 
-💻 Backend Developer | Python | Django | SQL  
+💻 Data Science | Python | PySpark |  Oracle | MySQL | PowerBI | Excel 
 📚 Passionate about building scalable APIs  
 📬 Reach me at: [fontaocontato@gmail.com](mailto:fontaocontato@gmail.com)  
 
